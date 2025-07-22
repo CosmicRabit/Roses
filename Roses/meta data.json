@@ -1,0 +1,14 @@
+{
+    "id": "Roses",
+    "name": "Roses",
+    "display_name": "Roses",
+    "author": ["CosmicRabit"],
+    "description": "First Mod",
+    "prefix": "rose",
+    "main_file": "Roses.lua",
+    "priority": 0,
+    "badge_colour": "666665",
+    "badge_text_colour": "FFFFFF",
+    "version": "0.0.1",
+    "dependencies": []
+}
